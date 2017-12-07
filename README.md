@@ -1,3 +1,3 @@
 ## Project title: guessinggame
-**Run on:** Πεμ 07 Δεκ 2017 02:11:47 πμ EET 
+**Run on:** 2017-12-07 02:17:56 
 **Number of lines:** 28 guessinggame.sh
